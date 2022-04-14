@@ -1,0 +1,7 @@
+.app{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(rgba(126, 124, 124, 0.6), rgba(126, 124, 124, 0.9)), url(/images/iti_background.jpeg) no-repeat center;
+    background-size: cover;
+}
+
